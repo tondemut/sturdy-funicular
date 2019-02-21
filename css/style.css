@@ -171,7 +171,7 @@ a:active {
   padding: 15px 40px;
   display: inline-block;
   background-color: #7FBE41;
-  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  box-shadow: 0 15px 40px rgba(35, 157, 76, 0.541);
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 }
 
