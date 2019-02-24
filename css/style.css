@@ -531,4 +531,6 @@ footer p.copyright-text a:hover {
   text-decoration: none;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
+.card {
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
